@@ -1,0 +1,4 @@
+- Hello, my name is Lae
+- I'm a fullstack web developer. On my spare time, I'm a game developer
+- Currently I'm learning React for web development. Also, I'm looking forward to learn Python
+- Contact: laurollano@outlook.com
