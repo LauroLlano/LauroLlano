@@ -13,9 +13,3 @@ _Here's a list of stuff I like:_
 * Javascript with jQuery
 
 _Currently I'm learning React for web development. Also, I'm looking forward to learn Python._
-
-_Contact:_
-
-```
-laurollano@outlook.com
-```
